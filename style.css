@@ -6,6 +6,10 @@ h1 {
   text-align: center;
 }
 
+
+body {
+  background-color: LightGray;
+}
 div.relative {
   position: relative;
   left: 30px;
@@ -16,6 +20,11 @@ div.relative {
 .tab-container {
   display: flex;
   background-color: LightGray;
+}
+
+img {
+  display: block;
+  margin: auto;
 }
 .container div {
   background-color:#808080;
@@ -33,3 +42,4 @@ header {
   display: flex;
   justify-content: center;
 }
+
