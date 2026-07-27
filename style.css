@@ -11,11 +11,14 @@ h1 {
 body {
   background-color: LightGray;
 }
+.container{display: flex;
+  justify-content: center;
+  align-items: center;
+  }
 img {
   display: block;
   margin: auto;
 }
-
 
 
 h2 {
